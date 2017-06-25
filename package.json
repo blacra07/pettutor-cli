@@ -1,0 +1,24 @@
+{
+  "name": "pettutor-cli",
+  "version": "1.0.0",
+  "description": "PetTutor CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joegilley/pettutor-cli.git"
+  },
+  "keywords": [
+    "pettutor",
+    "pet",
+    "tutor"
+  ],
+  "author": "Joseph Gilley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joegilley/pettutor-cli/issues"
+  },
+  "homepage": "https://github.com/joegilley/pettutor-cli#readme"
+}
